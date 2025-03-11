@@ -1,16 +1,23 @@
 # Patriot Conceptions
 
-![Patriot Conceptions Logo](https://via.placeholder.com/800x200?text=Patriot+Conceptions)
+<div align="center">
+  <img src="./images/pc_logo.svg" alt="Patriot Conceptions Logo" width="600">
+  <h3>Conceiving Miracles with Love</h3>
+</div>
 
 ## About Us
 
-Patriot Conceptions is a veteran-owned surrogacy and egg donation platform dedicated to helping individuals and families achieve parenthood through Assisted Third-party Reproduction. Founded with the mission of providing comprehensive, supportive, and ethical reproductive services, we specialize in connecting intended parents with gestational carriers and egg donors in a secure, trustworthy environment.
+Patriot Conceptions is a veteran-founded surrogacy and egg donation agency dedicated to helping individuals and families achieve parenthood through Assisted Third-party Reproduction. Founded with the mission of providing comprehensive, supportive, and ethical reproductive services, we specialize in connecting intended parents with gestational carriers and egg donors in a secure, trustworthy environment.
 
 ## Our Mission
 
 To empower all individuals and families in their journey to parenthood by providing an inclusive, supportive, and technologically advanced platform that connects intended parents with gestational carriers and egg donors.
 
 ## Our Values
+
+<div align="center">
+  <img src="./images/values.svg" alt="Patriot Conceptions Values" width="700">
+</div>
 
 - **Integrity**: We operate with complete transparency and ethical standards
 - **Respect**: We honor the unique journey of each individual and family
@@ -19,6 +26,10 @@ To empower all individuals and families in their journey to parenthood by provid
 - **Compassion**: We approach each relationship with understanding and empathy
 
 ## Our Services
+
+<div align="center">
+  <img src="./images/services.svg" alt="Patriot Conceptions Services" width="700">
+</div>
 
 ### For Intended Parents
 - Comprehensive profiles of pre-screened gestational carriers and egg donors
@@ -106,17 +117,25 @@ Patriot Conceptions brings together experts in reproductive medicine, technology
 ## Contact Us
 
 - **Website**: [www.patriotconceptions.com](https://www.patriotconceptions.com)
-- **Email**: info@patriotconceptions.com
-- **Phone**: (800) XXX-XXXX
-- **Address**: 123 Family Way, Suite 100, San Diego, CA 92101
+- **Email**: [info@patriotconceptions.com](mailto:info@patriotconceptions.com)
+- **Phone**: (888) 807-1126
+
+### Our Locations
+
+**Orange County, CA:**  
+2211 Michelson Drive,  
+Suite 900,  
+Irvine, CA 92612
+
+**New York City:**  
+370 Jay Street, 7th Floor  
+Brooklyn, NY 11201
 
 ## Connect With Us
 
-- [Facebook](https://facebook.com/patriotconceptions)
-- [Instagram](https://instagram.com/patriotconceptions)
-- [LinkedIn](https://linkedin.com/company/patriotconceptions)
-- [Twitter](https://twitter.com/patriotconcept)
+- [Instagram: @patriotconceptions](https://instagram.com/patriotconceptions)
+- [Facebook: PatriotConceptions](https://facebook.com/PatriotConceptions)
 
 ---
 
-© 2025 Patriot Conceptions. All rights reserved.
+ 2025 Patriot Conceptions LLC. All rights reserved.

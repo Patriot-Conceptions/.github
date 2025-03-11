@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#B66D3D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DEA27A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="250" fill="#FFF3E8" />
+  
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#B66D3D" text-anchor="middle">Our Core Values</text>
+  
+  <!-- Value 1: Integrity -->
+  <g transform="translate(100, 100)">
+    <circle cx="25" cy="0" r="15" fill="url(#gradient)" />
+    <text x="60" y="8" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#B66D3D">Integrity</text>
+  </g>
+  
+  <!-- Value 2: Respect -->
+  <g transform="translate(350, 100)">
+    <circle cx="25" cy="0" r="15" fill="url(#gradient)" />
+    <text x="60" y="8" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#B66D3D">Respect</text>
+  </g>
+  
+  <!-- Value 3: Inclusion -->
+  <g transform="translate(600, 100)">
+    <circle cx="25" cy="0" r="15" fill="url(#gradient)" />
+    <text x="60" y="8" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#B66D3D">Inclusion</text>
+  </g>
+  
+  <!-- Value 4: Excellence -->
+  <g transform="translate(175, 170)">
+    <circle cx="25" cy="0" r="15" fill="url(#gradient)" />
+    <text x="60" y="8" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#B66D3D">Excellence</text>
+  </g>
+  
+  <!-- Value 5: Compassion -->
+  <g transform="translate(475, 170)">
+    <circle cx="25" cy="0" r="15" fill="url(#gradient)" />
+    <text x="60" y="8" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#B66D3D">Compassion</text>
+  </g>
+</svg>

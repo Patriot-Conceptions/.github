@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#B66D3D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DEA27A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="300" fill="#FFF3E8" />
+  
+  <!-- Service 1: Intended Parents -->
+  <g transform="translate(100, 80)">
+    <circle cx="25" cy="25" r="40" fill="url(#gradient)" opacity="0.7" />
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#B66D3D">For Intended Parents</text>
+    <text x="90" y="55" font-family="Arial, sans-serif" font-size="16" fill="#333">
+      <tspan x="90" dy="0">• Comprehensive profiles of pre-screened carriers</tspan>
+      <tspan x="90" dy="25">• Secure communication channels</tspan>
+      <tspan x="90" dy="25">• Legal and medical coordination services</tspan>
+    </text>
+  </g>
+  
+  <!-- Service 2: Gestational Carriers -->
+  <g transform="translate(450, 80)">
+    <circle cx="25" cy="25" r="40" fill="url(#gradient)" opacity="0.7" />
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#B66D3D">For Gestational Carriers</text>
+    <text x="90" y="55" font-family="Arial, sans-serif" font-size="16" fill="#333">
+      <tspan x="90" dy="0">• Thorough screening and matching</tspan>
+      <tspan x="90" dy="25">• Competitive compensation packages</tspan>
+      <tspan x="90" dy="25">• Legal protection and representation</tspan>
+    </text>
+  </g>
+  
+  <!-- Service 3: Egg Donors -->
+  <g transform="translate(150, 210)">
+    <circle cx="25" cy="25" r="40" fill="url(#gradient)" opacity="0.7" />
+    <text x="90" y="25" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#B66D3D">For Egg Donors</text>
+    <text x="90" y="55" font-family="Arial, sans-serif" font-size="16" fill="#333">
+      <tspan x="90" dy="0">• User-friendly application process</tspan>
+      <tspan x="90" dy="25">• Personalized matching with intended parents</tspan>
+      <tspan x="90" dy="25">• Generous compensation</tspan>
+    </text>
+  </g>
+</svg>
