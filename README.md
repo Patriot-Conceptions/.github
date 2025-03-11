@@ -138,4 +138,4 @@ Brooklyn, NY 11201
 
 ---
 
- 2025 Patriot Conceptions LLC. All rights reserved.
+© 2025 Patriot Conceptions LLC. All rights reserved.
