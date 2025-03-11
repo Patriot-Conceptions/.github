@@ -18,7 +18,7 @@ To empower all individuals and families in their journey to parenthood by provid
 - **Email**: [info@patriotconceptions.com](mailto:info@patriotconceptions.com)
 - **Phone**: (888) 807-1126
 - **Instagram**: [@patriotconceptions](https://instagram.com/patriotconceptions)
-- **Facebook**: [PatriotConceptions](https://facebook.com/PatriotConceptions)
+- **Facebook**: [PatriotConceptions](https://facebook.com/patriotconceptionsus)
 
 ## Our Values
 - Integrity
